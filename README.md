@@ -5,7 +5,7 @@ This project presents a simple exploratory data analysis (EDA) of music listenin
 ## 📁 Project Structure
 
 - `music_analysis.ipynb`: The main Jupyter Notebook containing the step-by-step data analysis.
-- `data/`: Folder containing the dataset (not included in this repo due to size/privacy).
+- `music_project_en.csv`: The dataset.
 - `README.md`: Project documentation (you are here!).
 
 ## 🔍 Objectives
@@ -18,8 +18,6 @@ This project presents a simple exploratory data analysis (EDA) of music listenin
 ## 📊 Main Findings
 
 - **Springfield** shows a higher overall volume of music plays.
-- **Shelbyville** listeners tend to prefer genres like *hip-hop*, while *electronic music* is more popular in Springfield.
-- Both cities share similar peak listening hours, especially in the evening.
 - Weekends tend to show increased activity, particularly in Springfield.
 
 > The full conclusions are available at the end of the notebook.
@@ -28,3 +26,4 @@ This project presents a simple exploratory data analysis (EDA) of music listenin
 
 - Python 3
 - Pandas
+- Jupyter Notebook
